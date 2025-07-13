@@ -10,6 +10,7 @@ I am:
 *   so I am an ♒︎Aquarius
 *   🩸**Blood (B+) and Plasma Donor for AVIS**
 *   **Amateur road cycling athlete with Zerosbatti APS insurance, with a** 🚲**Matt Blue Merida Silex 400 road cycling bike**
+*   **FitActive gym athlete**
 *   The lucky owner of a 🏎**tuned Ford Fiesta ST-LINE MK8 2019**
 
   
