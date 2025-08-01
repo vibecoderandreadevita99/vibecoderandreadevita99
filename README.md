@@ -2,23 +2,19 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&color=FFFFFF&multiline=true&width=435&lines=Andrea+De+Vita;%3C%2Fvibe-coder%3E)](https://git.io/typing-svg)
 
-I am:
-
-*   **🇮🇹Italian**
-*   born on **XXVI - I - MCMXCIX**, it was a **Tuesday**
-*   at 🕣08:37 am
-*   so I am an ♒︎Aquarius
-*   🩸**Blood (B+) and Plasma Donor for AVIS**
-*   **Amateur road cycling athlete with Zerosbatti APS insurance, with a** 🚲**Matt Blue Merida Silex 400 road cycling bike**
-*   **FitActive gym athlete**
-*   The lucky owner of a 🏎**tuned Ford Fiesta ST-LINE MK8 2019**
-
-  
-
+🎂XXVI - I - MCMXCIX, Tuesday at 🕣08:37 am (♒︎Aquarius)
+📍Based in 🇮🇹
+AVIS B+ , @zerosbattiinbici
+🚲Merida Silex & Ford Fiesta
+@fitactive_cislago
+⛩生き甲斐
+🌶Lover
+Ⓐ1️⃣3️⃣1️⃣2️⃣
+ 🚲Merida Silex 400 Matt Blue XS
+ 🏎 Ford Fiesta ST-Line MK8 2019
 I have a lot of passions, including:
-
-*   **Collecting 👟Sneakers, 📀LPs and 🧱LEGO sets**;
-*   **📚Reading biographies and autobiographies of successful people**.
+ - Collecting 👟Sneakers, 📀LPs and 🧱LEGO sets;
+ - 📚Reading biographies and autobiographies of successful people.
 
 </h4>
 
@@ -29,11 +25,10 @@ I have a lot of passions, including:
   "Mouse": "Logitech MX Master 3S for Mac"
   "Mobile": "Apple iPhone SE 128 GB 3rd Gen"
   "Watch": "Apple Watch SE 2nd Gen 44mm"
-  "Earphones": "Apple AirPods 3rd Gen"
+  "Earphones": "Apple AirPods 4th Gen"
   "Keychain": "inCharge charging cable"
   "Security Key": "Thetis FIDO2 Fingerprint"
-  "Pendrive USB": "Kingston 256 GB", "SanDisk 256 GB", "Lexar 32 GB Fingerprint"
-  "Backup SSD": "SanDisk 250 GB Extreme Portable"
+  "Pendrive USB": "Kingston 256 GB", "Lexar 32 GB Fingerprint"
   "Other": "Flipper Zero with WiFi Devboard Module v1", "USB Killer"
 }
 ```
