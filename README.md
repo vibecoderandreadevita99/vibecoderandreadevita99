@@ -2,21 +2,18 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100&color=FFFFFF&multiline=true&width=435&lines=Andrea+De+Vita;%3C%2Fvibe-coder%3E)](https://git.io/typing-svg)
 
-🎂XXVI - I - MCMXCIX, Tuesday at 🕣08:37 am (♒︎Aquarius)
-📍Based in 🇮🇹
-AVIS B+ , @zerosbattiinbici
-🚲Merida Silex & Ford Fiesta
-@fitactive\_cislago
-⛩生き甲斐
-🌶Lover
-Ⓐ1️⃣3️⃣1️⃣2️⃣
-🚲Merida Silex 400 Matt Blue XS
-🏎 Ford Fiesta ST-Line MK8 2019
-I have a lot of passions, including:
-\- Collecting 👟Sneakers, 📀LPs and 🧱LEGO sets;
-\- 📚Reading biographies and autobiographies of successful people.
-
-</h4>
+ - 🎂XXVI - I - MCMXCIX, Tuesday at 🕣08:37 am (♒︎Aquarius)
+ - 📍Based in 🇮🇹
+ - AVIS B+ , @zerosbattiinbici
+ - 🚲Merida Silex 400 Matt Blue XS
+ - 🏎 Ford Fiesta ST-Line MK8 2019
+ - @fitactive_cislago
+ - ⛩生き甲斐
+ - 🌶Lover
+ - Ⓐ1️⃣3️⃣1️⃣2️⃣
+ - I have a lot of passions, including:
+    - Collecting 👟Sneakers, 📀LPs and 🧱LEGO sets;
+    - 📚Reading biographies and autobiographies of successful people.
 
 **My tech EDC**:
 ```json
@@ -30,6 +27,7 @@ I have a lot of passions, including:
   "Security Key": "Thetis FIDO2 Fingerprint"
   "Pendrive USB": "Kingston 256 GB", "Lexar 32 GB Fingerprint"
   "Other": "Flipper Zero with WiFi Devboard Module v1", "USB Killer"
+  "Camera": "Insta360 GO 3S"
 }
 ```
 
