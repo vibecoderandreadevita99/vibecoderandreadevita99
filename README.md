@@ -6,15 +6,15 @@
 📍Based in 🇮🇹
 AVIS B+ , @zerosbattiinbici
 🚲Merida Silex & Ford Fiesta
-@fitactive_cislago
+@fitactive\_cislago
 ⛩生き甲斐
 🌶Lover
 Ⓐ1️⃣3️⃣1️⃣2️⃣
- 🚲Merida Silex 400 Matt Blue XS
- 🏎 Ford Fiesta ST-Line MK8 2019
+🚲Merida Silex 400 Matt Blue XS
+🏎 Ford Fiesta ST-Line MK8 2019
 I have a lot of passions, including:
- - Collecting 👟Sneakers, 📀LPs and 🧱LEGO sets;
- - 📚Reading biographies and autobiographies of successful people.
+\- Collecting 👟Sneakers, 📀LPs and 🧱LEGO sets;
+\- 📚Reading biographies and autobiographies of successful people.
 
 </h4>
 
