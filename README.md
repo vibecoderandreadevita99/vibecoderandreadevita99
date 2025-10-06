@@ -4,13 +4,7 @@
 
  - 🎂XXVI - I - MCMXCIX, Tuesday at 🕣08:37 am (♒︎Aquarius)
  - 📍Based in 🇮🇹
- - AVIS B+ , @zerosbattiinbici
- - 🚲Merida Silex 400 Matt Blue XS
- - 🏎 Ford Fiesta ST-Line MK8 2019
- - @fitactive_cislago
  - ⛩生き甲斐
- - 🌶Lover
- - Ⓐ1️⃣3️⃣1️⃣2️⃣
  - I have a lot of passions, including:
     - Collecting 👟Sneakers, 📀LPs and 🧱LEGO sets;
     - 📚Reading biographies and autobiographies of successful people.
