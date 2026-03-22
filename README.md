@@ -4,10 +4,6 @@
 
  - 🎂XXVI - I - MCMXCIX, Tuesday at 🕣08:37 am (♒︎Aquarius)
  - 📍Based in 🇮🇹
- - ⛩🇯🇵生き甲斐🗾🗻
- - I have a lot of passions, including:
-    - Collecting 👟Sneakers, 📀LPs and 🧱LEGO sets;
-    - 📚Reading biographies and autobiographies of successful people.
 
 **My tech EDC**:
 ```json
@@ -18,10 +14,6 @@
   "Earphones": "Apple AirPods 4th Gen"
   "Keychain": "inCharge charging cable"
   "Security Key": "Thetis FIDO2 Fingerprint"
-  "Pendrive USB": "Kingston 256 GB", "Lexar 32 GB Fingerprint"
-  "Other": "Elgato Stream Deck Mini", "Flipper Zero with WiFi Devboard Module v1", "USB Killer"
-  "Camera": "Insta360 GO 3S"
-  "Drone": "DJI Mini 4K"
 }
 ```
 <h4 align="left">Social:</h4>
