@@ -4,7 +4,6 @@
 
  - 🎂XXVI - I - MCMXCIX
  - 📍Based in 🇮🇹
- - 🩸AVIS B+
  - 🚲Merida Silex & 🏎Ford Fiesta
 
 **My tech EDC**:
